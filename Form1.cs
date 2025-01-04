@@ -28,6 +28,8 @@ namespace BaseBall
         {
             InitializeComponent();
 
+            this.Text = "왱구가 좋아하는 야구게임";
+
             lblBall.Text = "";
             lblStrike.Text = "";
             lblTest.Text = "";
